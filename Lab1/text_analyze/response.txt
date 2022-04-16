@@ -1,0 +1,7 @@
+Text analyzer response:
+	Words count: 21
+	Words frequency: {'и': 2, 'т': 2, 'пример': 1, 'текста': 1, 'написанный': 1, 'студентом': 1, 'панкратовым': 1, 'также': 1, 'такие': 1, 'конструкции': 1, 'как': 1, 'д': 1, 'п': 1, 'не': 1, 'должны': 1, 'разбивать': 1, 'на': 1, 'ложные': 1, 'предложения': 1}
+	Sentences count: 2
+	Average number of words in sentences: 10.5
+	Median number of words in sentences: 10.5
+	The most frequent N-grams (K pieces): {'прим': 1, 'риме': 1, 'имер': 1, 'текс': 1, 'екст': 1, 'кста': 1, 'напи': 1, 'апис': 1, 'писа': 1, 'исан': 1}
