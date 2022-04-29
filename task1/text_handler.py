@@ -91,3 +91,4 @@ class TextHandler:
     @staticmethod
     def print_median_number_words(text):
         print(TextHandler.get_median_number_words(text))
+     
